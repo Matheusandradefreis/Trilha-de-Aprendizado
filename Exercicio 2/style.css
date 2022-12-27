@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #e5e5e5;
+}
+.content {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 200px;
+}
+.text-content {
+  font-family: "Roboto", sans-serif;
+  color: #eb5819;
+  font-size: 25px;
+  line-height: 40px;
+  margin-left: 30px;
+}
+.form-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.form-content-email {
+  width: 378px;
+  height: 48px;
+  border-radius: 8px;
+  gap: 10px;
+  border: 1px solid #595959;
+  font-size: 20px;
+}
+.form-content-password {
+  width: 378px;
+  height: 48px;
+  border-radius: 8px;
+  gap: 10px;
+  border: 1px solid #595959;
+  font-size: 20px;
+}
+.form-content-submit {
+  width: 378px;
+  height: 48px;
+  border-radius: 8px;
+  gap: 10px;
+  border: 1px solid #595959;
+  background-color: #eb5819;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.4ms;
+}
+
+.img-content {
+  position: absolute;
+  margin: -100px;
+}
+.img-content-img1 {
+  margin-left: -50px;
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 900px;
+  top: 150px;
+  border-radius: 750px;
+  z-index: 0;
+}
+.img-content-img2 {
+  position: absolute;
+  width: 28.22px;
+  height: 28.22px;
+  left: 1270px;
+  top: 200px;
+}
+.img-content-img3 {
+  position: absolute;
+  width: 7.43px;
+  height: 7.43px;
+  left: 1320px;
+  top: 259.41px;
+}
+.img-content-img4 {
+  position: absolute;
+  width: 19.31px;
+  height: 19.31px;
+  left: 850px;
+  top: 290px;
+}
+.img-content-img5 {
+  position: absolute;
+  width: 80.95px;
+  height: 80.95px;
+  left: 890px;
+  top: 200px;
+  background-color: transparent;
+}
+.img-content-img6 {
+  position: absolute;
+  width: 500px;
+  height: auto;
+  left: 850px;
+  top: 450px;
+  border-radius: 100px;
+  background-color: transparent;
+}
+.img-content-img7 {
+  position: absolute;
+  width: 80.25px;
+  height: 80.25px;
+  left: 820px;
+  top: 350px;
+  background-color: transparent;
+}
+.img-content-img8 {
+  position: absolute;
+  width: 64.8px;
+  height: 64.8px;
+  left: 1290px;
+  top: 500px;
+  background-color: transparent;
+}
+
+@media (max-width: 750px) {
+  .content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 378px;
+    height: 378px;
+    top: 399px;
+    left: 76px;
+    border-radius: 8px;
+  }
+  .img-content {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 354.96px;
+    height: 313px;
+    top: -50px;
+    left: -570px;
+    justify-content: center;
+  }
+}
