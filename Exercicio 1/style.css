@@ -1,6 +1,20 @@
-* {
-  box-sizing: border-box;
-}
-.title {
+.head-content {
   text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.list1 {
+  align-items: center;
+  line-height: 200%;
+  max-width: 600px;
+  margin-left: 25%;
+}
+.text-content {
+  margin-top: 40px;
+  margin-left: 27.1%;
+}
+.list2 {
+  margin-left: 20px;
+  margin-left: 28%;
 }
