@@ -1,0 +1,890 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head-content {
+  margin: 100px;
+  margin-top: 100px;
+}
+
+.head-text-content {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  font-size: 37px;
+  text-align: justify;
+}
+.head-text-content1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  margin-top: 30px;
+}
+.head-text-content2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  margin-left: 250px;
+  margin-top: -96px;
+}
+.head-text-content3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  margin-left: 250px;
+  margin-top: 30px;
+}
+
+.btn-content {
+  background-color: #eb5819;
+  color: whitesmoke;
+  border-radius: 8px;
+  height: 40px;
+  width: 350px;
+  margin-top: 60px;
+  cursor: pointer;
+}
+.img-content-1 {
+  position: absolute;
+  width: 470px;
+  margin-top: -450px;
+  margin-left: 600px;
+}
+.img-content-2 {
+  width: 10px;
+  margin-top: -330px;
+  margin-left: 1050px;
+  position: absolute;
+}
+.img-content-3 {
+  width: 20px;
+  margin-top: -390px;
+  margin-left: 1020px;
+  position: absolute;
+}
+.img-content-4 {
+  width: 50px;
+  margin-top: -390px;
+  margin-left: 645px;
+  position: absolute;
+}
+.img-content-5 {
+  width: 12px;
+  margin-top: -300px;
+  margin-left: 600px;
+  position: absolute;
+}
+.img-content-6 {
+  width: 63px;
+  margin-top: -260px;
+  margin-left: 570px;
+  position: absolute;
+}
+.img-content-7 {
+  width: 55px;
+  margin-top: -190px;
+  margin-left: 1030px;
+  position: absolute;
+}
+.img-content-8 {
+  width: 470px;
+  border-radius: 10px;
+  margin-top: -180px;
+  margin-left: 580px;
+  position: absolute;
+}
+
+.section1 {
+  height: 600px;
+  margin-top: 300px;
+}
+
+.section-text-content {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 80px;
+  margin-top: -450px;
+}
+.section-text-content1 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.section-text-content2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.section-text-content3 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.section-img-content1 {
+  width: 350px;
+  margin-left: 750px;
+  margin-top: 10px;
+}
+
+.section2 {
+  height: 600px;
+  margin-top: 80px;
+}
+
+.section2-text-content {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 550px;
+  margin-top: -550px;
+}
+.section2-text-content1 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 550px;
+}
+.section2-text-content2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+.section2-text-content3 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 550px;
+}
+.section2-img-content1 {
+  width: 400px;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+
+.section3 {
+  height: 900px;
+  margin-top: 150px;
+}
+
+.section3-text-content {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 80px;
+  margin-top: -500px;
+}
+.section3-text-content1 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.section3-text-content2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #eb5819;
+  margin-left: 80px;
+  margin-top: 100px;
+}
+.section3-text-content3 {
+  max-width: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.section3-img-content1 {
+  width: 400px;
+  margin-left: 750px;
+  margin-top: 10px;
+}
+.section4 {
+  height: 300px;
+}
+.back-img1 {
+  position: absolute;
+  z-index: 1;
+  width: 210px;
+  height: 210px;
+  margin-top: -150px;
+  margin-left: 30%;
+}
+.back-img2 {
+  position: relative;
+  z-index: 2;
+  width: 153.82px;
+  height: 189.75px;
+  margin-left: 32.5%;
+  margin-top: -140px;
+}
+.back-img3 {
+  width: 198.24px;
+  height: 193.89px;
+  margin-left: -180px;
+  margin-top: -150px;
+}
+
+.back-text1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 46.88px;
+  margin-left: 600px;
+  margin-top: -180px;
+  position: absolute;
+}
+.back-text2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 46.88px;
+  color: #eb5819;
+  margin-left: 600px;
+  margin-top: -90px;
+  position: absolute;
+}
+
+.back-text3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: justify;
+  max-width: 600px;
+  margin-left: 320px;
+  margin-top: 50px;
+}
+
+.footer-content {
+  background-color: #d4d9d6;
+  height: 500px;
+}
+.footer-text-content {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  padding-top: 100px;
+  margin-left: 100px;
+  line-height: 46.88px;
+}
+.footer-text-content2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: #eb5819;
+  margin-left: 100px;
+}
+.footer-text-content3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  max-width: 600px;
+  text-align: justify;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.footer-btn-content {
+  width: 300px;
+  height: 30px;
+  background-color: #000000;
+  color: whitesmoke;
+  border-radius: 5px;
+  margin-left: 100px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+.footer-img-content1 {
+  height: 400px;
+  margin-left: 900px;
+  margin-top: -350px;
+}
+
+@media (max-width: 770px) {
+  .head-content {
+    margin-top: 300px;
+  }
+}
+@media (max-width: 770px) {
+  .head-text-content {
+    font-size: 20px;
+    margin-left: 180px;
+  }
+}
+@media (max-width: 770px) {
+  .head-text-content1 {
+    font-size: 20px;
+    margin-left: 100px;
+  }
+}
+@media (max-width: 770px) {
+  .head-text-content2 {
+    font-size: 20px;
+    margin-left: 350px;
+  }
+}
+@media (max-width: 770px) {
+  .head-text-content3 {
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 770px) {
+  .btn-content {
+    height: 40px;
+    width: 250px;
+    margin-left: 150px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-1 {
+    position: absolute;
+    width: 200px;
+    margin-top: -650px;
+    margin-left: 250px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-2 {
+    width: 5px;
+    margin-top: -600px;
+    margin-left: 445px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-3 {
+    width: 10px;
+    margin-top: -620px;
+    margin-left: 430px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-4 {
+    width: 25px;
+    margin-top: -620px;
+    margin-left: 260px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-5 {
+    width: 6px;
+    margin-top: -590px;
+    margin-left: 250px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-6 {
+    width: 31.5px;
+    margin-top: -580px;
+    margin-left: 238px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-7 {
+    width: 22.5px;
+    margin-top: -550px;
+    margin-left: 435px;
+  }
+}
+@media (max-width: 770px) {
+  .img-content-8 {
+    width: 200px;
+    margin-top: -530px;
+    margin-left: 245px;
+  }
+}
+@media (max-width: 770px) {
+  .section-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 230px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 770px) {
+  .section-text-content {
+    font-size: 20px;
+    margin-left: 230px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 770px) {
+  .section-text-content1 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .section-text-content2 {
+    font-size: 20px;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .section-text-content3 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+
+@media (max-width: 770px) {
+  .section2-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 230px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 770px) {
+  .section2-text-content {
+    font-size: 20px;
+    margin-left: 230px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 770px) {
+  .section2-text-content1 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .section2-text-content2 {
+    font-size: 20px;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .section2-text-content3 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+
+@media (max-width: 770px) {
+  .section3-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 230px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 770px) {
+  .section3-text-content {
+    font-size: 20px;
+    margin-left: 230px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 770px) {
+  .section3-text-content1 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .section3-text-content2 {
+    font-size: 15px;
+    margin-left: 230px;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 770px) {
+  .section3-text-content3 {
+    font-size: 10px;
+    max-width: 350px;
+    text-align: justify;
+    margin-left: 230px;
+  }
+}
+@media (max-width: 770px) {
+  .back-img-content {
+    margin-top: -400px;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 770px) {
+  .back-img2 {
+    margin-top: -400px;
+    margin-left: 260px;
+  }
+}
+
+@media (max-width: 770px) {
+  .back-text1 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 330px;
+  }
+}
+@media (max-width: 770px) {
+  .back-text2 {
+    font-size: 20px;
+    margin-top: 120px;
+    margin-left: 360px;
+  }
+}
+@media (max-width: 770px) {
+  .back-text3 {
+    max-width: 350px;
+    text-align: justify;
+    margin-top: 180px;
+    margin-left: 250px;
+  }
+}
+
+.footer-content {
+  background-color: #d4d9d6;
+  height: 1000px;
+}
+@media (max-width: 770px) {
+  .footer-text-content {
+    font-size: 25px;
+    text-align: center;
+    margin-top: -1000px;
+    margin-left: -150px;
+  }
+}
+@media (max-width: 770px) {
+  .footer-text-content2 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: -150px;
+  }
+}
+@media (max-width: 770px) {
+  .footer-text-content3 {
+    max-width: 400px;
+    text-align: justify;
+    margin-left: 250px;
+  }
+}
+@media (max-width: 770px) {
+  .footer-img-content1 {
+    height: 500px;
+    margin-left: 300px;
+    margin-top:  500px;
+}
+@media (max-width: 770px) {
+  .footer-btn-content {
+    margin-top: 600px;
+    margin-left: 250px;
+    
+  }
+}
+
+/* Media 430px */
+@media (max-width: 430px) {
+  .head-content {
+    margin-top: 250px;
+  }
+}
+@media (max-width: 430px) {
+  .head-text-content {
+    font-size: 15px;
+    margin-left: -50px;
+    text-align: center;  
+}
+}
+@media (max-width: 430px) {
+  .head-text-content1 {
+    font-size: 20px;
+    margin-left: -50px;
+  }
+}
+@media (max-width: 430px) {
+  .head-text-content2 {
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: -85px;
+    
+  }
+}
+@media (max-width: 430px) {
+  .head-text-content3 {
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: 30px;
+  }
+}
+@media (max-width: 430px) {
+  .btn-content {
+    height: 40px;
+    width: 250px;
+    margin-left: -20px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-1 {
+    position: absolute;
+    width: 200px;
+    margin-top: -600px;
+    margin-left: 100px; 
+  }
+}
+@media (max-width: 430px) {
+  .img-content-2 {
+    width: 5px;
+    margin-top: -570px;
+    margin-left: 275px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-3 {
+    width: 10px;
+    margin-top: -590px;
+    margin-left: 260px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-4 {
+    width: 25px;
+    margin-top: -580px;
+    margin-left: 115px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-5 {
+    width: 6px;
+    margin-top: -550px;
+    margin-left: 1070px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-6 {
+    width: 31.5px;
+    margin-top: -520px;
+    margin-left: 85px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-7 {
+    width: 22.5px;
+    margin-top: -480px;
+    margin-left: 285px;
+  }
+}
+@media (max-width: 430px) {
+  .img-content-8 {
+    width: 200px;
+    margin-top: -480px;
+    margin-left: 95px;
+  }
+}
+@media (max-width: 430px) {
+  .section-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 430px) {
+  .section-text-content {
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 430px) {
+  .section-text-content1 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .section-text-content2 {
+    font-size: 20px;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .section-text-content3 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 430px) {
+  .section2-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 430px) {
+  .section2-text-content {
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 430px) {
+  .section2-text-content1 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .section2-text-content2 {
+    font-size: 20px;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .section2-text-content3 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 430px) {
+  .section3-img-content1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: -2000px;
+  }
+}
+@media (max-width: 430px) {
+  .section3-text-content {
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 430px) {
+  .section3-text-content1 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .section3-text-content2 {
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 430px) {
+  .section3-text-content3 {
+    font-size: 10px;
+    max-width: 340px;
+    text-align: justify;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 430px) {
+  .back-img-content {
+    margin-top: -350px;
+    margin-left: -20px;
+  }
+}
+@media (max-width: 430px) {
+  .back-img2 {
+    margin-top: -400px;
+    margin-left: 160px;
+  }
+}
+
+@media (max-width: 430px) {
+  .back-text1 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 130px;
+  }
+}
+@media (max-width: 430px) {
+  .back-text2 {
+    font-size: 20px;
+    margin-top: 120px;
+    margin-left: 165px;
+  }
+}
+@media (max-width: 430px) {
+  .back-text3 {
+    font-size: 12px;
+    max-width: 250px;
+    text-align: justify;
+    margin-top: 180px;
+    margin-left: 80px;
+  
+}
+
+.footer-content {
+  width: 500px;
+  height: 500px;
+
+}
+@media (max-width: 430px) {
+  .footer-text-content {
+    font-size: 25px;
+    text-align: center;
+    margin-top: -900px;
+    margin-left: -250px;
+  }
+}
+@media (max-width: 430px) {
+  .footer-text-content2 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: -250px;
+  }
+}
+@media (max-width: 430px) {
+  .footer-text-content3 {
+    font-size: 12px;
+    max-width: 200px;
+    text-align: justify;
+    margin-left: 100px;
+  }
+}
+@media (max-width: 430px) {
+  .footer-img-content1 {
+    height: 300px;
+    margin-left: 130px;
+    margin-top:  500px;
+}
+@media (max-width: 430px) {
+  .footer-btn-content {
+    margin-top: 500px;
+    margin-left: 50px;
+    
+  }
+}
